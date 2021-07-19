@@ -19,3 +19,4 @@ while opcao == 1:
     
     print(f"O aluno {aluno} tirou a nota {nota} e se enquadra no conceito {conceito}")
     opcao = int(input('Inserir dados? 0 - Não     1 - Sim '))
+     
